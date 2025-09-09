@@ -24,7 +24,7 @@ PyQt5 + SQLite3 ile yazılmış, haftanın 7 gününe ayrı ayrı ders ve teneff
 
 1. Depoyu klonla veya ZIP ile indir:
    ```bash
-   git clone https://github.com/KULLANICI_ADINIZ/okul-zil-programi.git
+   git clone https://github.com/ainsoft-tech/ZilProgrami.git
    cd okul-zil-programi
    ```
 
